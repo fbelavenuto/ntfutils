@@ -1,5 +1,5 @@
 /*
- *  by Fábio Belavenuto - Copyright 2011
+ *  by Fábio Belavenuto - Copyright 2013
  *
  *  Versão 0.1beta
  *
@@ -7,6 +7,9 @@
  *  Veja o arquivo "Licenca.txt" distribuido com este software.
  *
  *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+ * 
+ * ntf2wav - Converte arquivos .ntf para áudio .wav
+ *
  */
 
 //#define DEBUG1

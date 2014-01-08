@@ -1,8 +1,15 @@
 /*
- * functions.h
+ *  by Fábio Belavenuto - Copyright 2013
  *
- *  Created on: 24/05/2011
- *      Author: Fabio Belavenuto
+ *  Versão 0.1beta
+ *
+ *  Este arquivo é distribuido pela Licença Pública Geral GNU.
+ *  Veja o arquivo "Licenca.txt" distribuido com este software.
+ *
+ *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+ * 
+ * Header das funções comuns
+ *
  */
 
 #ifndef FUNCTIONS_H_

@@ -7,13 +7,9 @@
  *  Veja o arquivo "Licenca.txt" distribuido com este software.
  *
  *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
- */
-
-/*
- * ntf2bin.cpp
+ * 
+ * ntf2bin - Extrai arquivo binário de arquivos .ntf
  *
- *  Created on: 13/12/2012
- *      Author: Fabio Belavenuto
  */
 
 #include <stdlib.h>

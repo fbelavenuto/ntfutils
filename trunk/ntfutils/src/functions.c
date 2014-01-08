@@ -1,8 +1,15 @@
 /*
- * functions.c
+ *  by Fábio Belavenuto - Copyright 2013
  *
- *  Created on: 11/12/2013
- *      Author: Fabio Belavenuto
+ *  Versão 0.1beta
+ *
+ *  Este arquivo é distribuido pela Licença Pública Geral GNU.
+ *  Veja o arquivo "Licenca.txt" distribuido com este software.
+ *
+ *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+ * 
+ * Funções comuns aos utilitários
+ *
  */
 
 #include <stdlib.h>
