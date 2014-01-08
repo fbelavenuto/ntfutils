@@ -7,14 +7,11 @@
  *  Veja o arquivo "Licenca.txt" distribuido com este software.
  *
  *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+ * 
+ * wav2ntf - Interpreta arquivo .wav formato Nestor e gera arquivo .ntf
+ *
  */
 
-/*
- * wav2ntf.c
- *
- *  Created on: 12/12/2013
- *      Author: Fabio Belavenuto
- */
 //#define DEBUG1
 //#define DEBUG2
 

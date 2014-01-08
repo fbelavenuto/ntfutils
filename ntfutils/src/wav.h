@@ -1,8 +1,15 @@
 /*
- * wav.h
+ *  by Fábio Belavenuto - Copyright 2013
  *
- *  Created on: 01/05/2011
- *      Author: Fabio Belavenuto
+ *  Versão 0.1beta
+ *
+ *  Este arquivo é distribuido pela Licença Pública Geral GNU.
+ *  Veja o arquivo "Licenca.txt" distribuido com este software.
+ *
+ *  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+ * 
+ * Cabeçalho para arquivos .wav
+ *
  */
 
 #ifndef WAV_H_

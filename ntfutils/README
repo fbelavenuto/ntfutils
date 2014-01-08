@@ -1,0 +1,43 @@
+  ntfutils - Tools for .NTF images manipulation
+  ---------------------------------------------
+
+  This software is licensing under GNU General Public License.
+  Please see the 'LICENSE' file in this package.
+  THERE IS NO WARRANTY FOR THE SOFTWARE
+
+COMPILATION:
+  Run 'make'
+  
+INSTALLATION:
+  Run 'make install'
+
+BUGS:
+
+CONTACTING THE AUTHOR:
+  Please send email for <belavenuto@gmail.com>
+
+COPYRIGHT:
+  Fábio Belavenuto - Copyright (C) 2013
+
+
+
+  ntfutils - Utilitários para manipulação de arquivos .NTF
+  -------------------------------------------------------
+
+  Este software é distribuido pela Licença Pública Geral GNU.
+  Veja o arquivo 'LICENSE' distribuido com este software.
+  ESTE SOFTWARE NÃO OFERECE NENHUMA GARANTIA
+
+COMPILAÇÃO:
+  Execute 'make'
+
+INSTALAÇÃO:
+  Execute 'make install'
+
+BUGS:
+
+CONTATANDO O AUTOR:
+  Favor enviar um e-mail para <belavenuto@gmail.com>
+
+COPYRIGHT:
+  Fábio Belavenuto - Copyright (C) 2013
